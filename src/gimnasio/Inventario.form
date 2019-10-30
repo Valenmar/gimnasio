@@ -136,7 +136,7 @@
               <Table columnCount="6" rowCount="1">
                 <Column editable="true" title="Nombre" type="java.lang.Object"/>
                 <Column editable="true" title="Instructores" type="java.lang.Object"/>
-                <Column editable="true" title="Menbresia" type="java.lang.Object"/>
+                <Column editable="true" title="Membresia" type="java.lang.Object"/>
                 <Column editable="true" title="Afiliados" type="java.lang.Object"/>
                 <Column editable="true" title="Sucursales" type="java.lang.Object"/>
                 <Column editable="true" title="Clases" type="java.lang.Object"/>

@@ -52,7 +52,7 @@ public class Inventario extends javax.swing.JFrame {
                 {null, null, null, null, null, null}
             },
             new String [] {
-                "Nombre", "Instructores", "Menbresia", "Afiliados", "Sucursales", "Clases"
+                "Nombre", "Instructores", "Membresia", "Afiliados", "Sucursales", "Clases"
             }
         ));
         jScrollPane1.setViewportView(jTable1);
